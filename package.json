@@ -1,0 +1,15 @@
+  
+{
+  " nom " : " bot-discord " ,
+  " version " : " 1.0.0 " ,
+  " description " : " super bot " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " test " : " echo \" Erreur: aucun test spécifié \ " && exit 1 "
+  },
+  " auteur " : " " ,
+  " licence " : " ISC " ,
+  " dépendances " : {
+    " discord.js " : " ^ 11.4.2 "
+  }
+}
